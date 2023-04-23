@@ -23,3 +23,21 @@ Spring Boot Reference Guide: https://github.com/spring-projects/spring-boot-refe
 Spring Initializr: https://github.com/spring-io/initializr
 
 These repositories contain a wealth of information, code samples, and documentation related to Spring Boot development. They are regularly updated by the Spring Boot community, and provide valuable resources for developers looking to build applications with Spring Boot.
+
+Spring Boot Samples: https://github.com/spring-projects/spring-boot/tree/main/spring-boot-samples
+This repository contains a collection of sample applications that demonstrate various features and functionalities of Spring Boot. These samples cover a wide range of use cases, including web applications, data access, messaging, and more.
+
+Spring Boot Admin: https://github.com/codecentric/spring-boot-admin
+Spring Boot Admin is a community project that provides a web interface for managing and monitoring Spring Boot applications. With Spring Boot Admin, developers can view and manage application health, perform diagnostic checks, and manage application instances.
+
+Spring Boot Actuator: https://github.com/spring-projects/spring-boot/tree/main/spring-boot-project/spring-boot-actuator
+Spring Boot Actuator is a module that provides production-ready features that help monitor and manage Spring Boot applications. These features include endpoint exposure, metrics collection, health checks, and more.
+
+Spring Boot Data: https://github.com/spring-projects/spring-data-examples
+The Spring Boot Data repository contains the Spring Data modules that provide easy integration with different data sources such as relational databases, NoSQL databases, and more. This repository includes examples and code samples that demonstrate how to use Spring Data with various data sources.
+
+Spring Boot Reference Guide: https://github.com/spring-projects/spring-boot-reference-guide
+The Spring Boot Reference Guide is the official documentation for Spring Boot. This repository contains the complete reference documentation, including detailed explanations of Spring Boot features, configuration options, and more.
+
+Spring Initializr: https://github.com/spring-io/initializr
+Spring Initializr is a web-based tool for generating Spring Boot projects with various configurations and dependencies. With Spring Initializr, developers can quickly create new Spring Boot projects with the necessary dependencies and configuration settings. The tool also provides customization options to tailor the project to specific needs.
