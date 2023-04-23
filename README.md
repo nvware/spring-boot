@@ -1,4 +1,4 @@
-**Spring Boot** is a popular Java-based framework for building web applications. It was initially released in 2014 by the Spring team at Pivotal, which was later acquired by VMware.
+**[Spring Boot](https://spring.io/projects/spring-boot)** is a popular Java-based framework for building web applications. It was initially released in 2014 by the Spring team at Pivotal, which was later acquired by VMware.
 
 Spring Boot was designed to simplify the process of creating and deploying web applications by providing a set of conventions and defaults out of the box. It is built on top of the Spring Framework and leverages many of its features, such as ***dependency injection and inversion of control***.
 
@@ -31,7 +31,7 @@ The Spring Boot Reference Guide is the official documentation for Spring Boot. T
 Spring Initializr is a web-based tool for generating Spring Boot projects with various configurations and dependencies. With Spring Initializr, developers can quickly create new Spring Boot projects with the necessary dependencies and configuration settings. The tool also provides customization options to tailor the project to specific needs.
 
 
-Here's a table of Spring Boot releases, their respective release dates, Java compatibility, and new features:
+Here's a table of [Spring Boot releases](https://github.com/spring-projects/spring-boot/wiki), their respective release dates, Java compatibility, and new features:
 
 |Release |Release 	| Compatibility	|New Features|Spring Framework Version|
 | --- | --- | --- | --- | --- |
@@ -47,3 +47,26 @@ Here's a table of Spring Boot releases, their respective release dates, Java com
 |2.3	|May 2020	|Java 8, 11		|RSocket support, improved testing, and faster startup times                             |5.2|
 |2.4	|Nov 2020	|Java 8, 11		|Reactive SQL, improved startup performance, and support for Java 15                     |5.3|
 |2.5	|May 2021	|Java 8, 11, 16	|Improved GraalVM support, Micronaut integration, and HTTP/3 support					 |5.3|
+|2.6 	|Nov 2021|Java 	17|	blob				 |5.3|
+|2.7 	|May 2022|Java 	17|	blob				 |6.0|
+|3.0 	|Nov 2022	|Java 17	|	blob				 |6.0|
+
+https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-Versions
+
+here's a table that provides more details about the major releases of Spring Framework, including new features and release dates:
+
+|Version|Release Date	|Java Compatibility	|New Features|
+| --- | --- | --- | --- | 
+|1.0	|March 24, 2004		|Java 1.3, 1.4	 |Initial release, IoC, AOP, Spring DAO, Spring ORM												  |
+|2.0	|September 28, 2006	|Java 1.4, 1.5	 |Introduction of annotation-based configuration, AspectJ support, and AOP improvements           |
+|2.5	|November 12, 2007	|Java 1.4, 1.5, 6|Introduction of XML-based configuration, JDBC improvements, and JPA support                     |
+|3.0	|December 8, 2009	|Java 5, 6		 |Introduction of Java-based configuration, support for RESTful web services, and improved testing|
+|3.1	|December 15, 2011	|Java 6, 7		 |Introduction of environment profiles, support for caching, and enhanced testing                 |
+|3.2	|December 10, 2012	|Java 6, 7		 |Introduction of HTML5 support, asynchronous request processing, and WebSocket support           |
+|4.0	|December 12, 2013	|Java 6, 7, 8	 |Introduction of support for Java 8, WebSocket messaging, and improved testing                   |
+|4.1	|April 24, 2014		|Java 6, 7, 8	 |Introduction of reactive programming model and WebSocket message broker                         |
+|4.2	|August 1, 2016		|Java 6, 7, 8	 |Introduction of Kotlin support, HTTP/2 support, and testing improvements                        |
+|4.3	|June 22, 2017		|Java 6, 7, 8	 |Introduction of Jackson 2.8 support, JUnit 5 support, and performance improvements              |
+|5.0	|September 28, 2017	|Java 8, 9		 |Introduction of support for Java 9, Reactive WebFlux, and Kotlin Coroutines                     |
+
+Note that this table only covers major releases of Spring Framework and does not include patch or maintenance releases.
