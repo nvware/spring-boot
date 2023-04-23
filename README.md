@@ -33,17 +33,17 @@ Spring Initializr is a web-based tool for generating Spring Boot projects with v
 
 Here's a table of Spring Boot releases, their respective release dates, Java compatibility, and new features:
 
-|Release |Release 	| Compatibility	|New Features|
-| --- | --- | --- | --- |
-|1.0	|April 2014	|Java 6, 7		|Initial release                                                                         |
-|1.1	|Dec 2014	|Java 6, 7, 8	|Improved auto-configuration, JPA and MongoDB support                                    |
-|1.2	|Apr 2015	|Java 7, 8		|Spring Integration, DevTools, Actuator, and Testing                                     |
-|1.3	|Nov 2015	|Java 7, 8		|HTTP/2, Spring WebSockets, and improved security                                        |
-|1.4	|Aug 2016	|Java 8, 9		|Testing improvements, support for Kotlin                                                |
-|1.5	|Jan 2017	|Java 8, 9		|Initial support for Spring Framework 5, reactive programming, and embedded Kafka        |
-|2.0	|Feb 2018	|Java 8, 9		|Reactive WebSockets, support for Spring Framework 5, and auto-configuration improvements|
-|2.1	|Oct 2018	|Java 8, 11		|Improved metrics, support for Kotlin Coroutines, and testing improvements               |
-|2.2	|Oct 2019	|Java 8, 11		|Micrometer integration, improved actuator endpoints, and GraalVM support                |
-|2.3	|May 2020	|Java 8, 11		|RSocket support, improved testing, and faster startup times                             |
-|2.4	|Nov 2020	|Java 8, 11		|Reactive SQL, improved startup performance, and support for Java 15                     |
-|2.5	|May 2021	|Java 8, 11, 16	|Improved GraalVM support, Micronaut integration, and HTTP/3 support					 |
+|Release |Release 	| Compatibility	|New Features|Spring Framework Version|
+| --- | --- | --- | --- | --- |
+|1.0	|April 2014	|Java 6, 7		|Initial release                                                                         |4.0|
+|1.1	|Dec 2014	|Java 6, 7, 8	|Improved auto-configuration, JPA and MongoDB support                                    |4.1|
+|1.2	|Apr 2015	|Java 7, 8		|Spring Integration, DevTools, Actuator, and Testing                                     |4.1|
+|1.3	|Nov 2015	|Java 7, 8		|HTTP/2, Spring WebSockets, and improved security                                        |4.2|
+|1.4	|Aug 2016	|Java 8, 9		|Testing improvements, support for Kotlin                                                |4.3|
+|1.5	|Jan 2017	|Java 8, 9		|Initial support for Spring Framework 5, reactive programming, and embedded Kafka        |5.0|
+|2.0	|Feb 2018	|Java 8, 9		|Reactive WebSockets, support for Spring Framework 5, and auto-configuration improvements|5.0|
+|2.1	|Oct 2018	|Java 8, 11		|Improved metrics, support for Kotlin Coroutines, and testing improvements               |5.1|
+|2.2	|Oct 2019	|Java 8, 11		|Micrometer integration, improved actuator endpoints, and GraalVM support                |5.2|
+|2.3	|May 2020	|Java 8, 11		|RSocket support, improved testing, and faster startup times                             |5.2|
+|2.4	|Nov 2020	|Java 8, 11		|Reactive SQL, improved startup performance, and support for Java 15                     |5.3|
+|2.5	|May 2021	|Java 8, 11, 16	|Improved GraalVM support, Micronaut integration, and HTTP/3 support					 |5.3|
