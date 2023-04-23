@@ -31,11 +31,6 @@ The Spring Boot Reference Guide is the official documentation for Spring Boot. T
 Spring Initializr is a web-based tool for generating Spring Boot projects with various configurations and dependencies. With Spring Initializr, developers can quickly create new Spring Boot projects with the necessary dependencies and configuration settings. The tool also provides customization options to tailor the project to specific needs.
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 Here's a table of Spring Boot releases, their respective release dates, Java compatibility, and new features:
 
 |Release |Release Date	|Java Compatibility	|New Features|
