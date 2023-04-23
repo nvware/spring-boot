@@ -10,7 +10,7 @@ Overall, Spring Boot has played a significant role in simplifying the process of
 
 Here are the links to the best sources of Spring Boot on GitHub:
 
-Spring Boot Samples: https://github.com/spring-projects/spring-boot/tree/main/spring-boot-samples
+[Spring Boot Samples] (https://github.com/spring-projects/spring-boot/tree/main/spring-boot-samples)
 
 Spring Boot Admin: https://github.com/codecentric/spring-boot-admin
 
