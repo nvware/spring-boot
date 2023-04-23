@@ -1,4 +1,4 @@
-Spring Boot is a popular Java-based framework for building web applications. It was initially released in 2014 by the Spring team at Pivotal, which was later acquired by VMware.
+**Spring Boot is a popular Java-based framework for building web applications. It was initially released in 2014 by the Spring team at Pivotal, which was later acquired by VMware.
 
 Spring Boot was designed to simplify the process of creating and deploying web applications by providing a set of conventions and defaults out of the box. It is built on top of the Spring Framework and leverages many of its features, such as dependency injection and inversion of control.
 
